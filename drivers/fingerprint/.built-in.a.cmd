@@ -1,0 +1,1 @@
+cmd_drivers/fingerprint/built-in.a :=  rm -f drivers/fingerprint/built-in.a; ./aarch64-linux-android-4.9-llvm/bin/aarch64-linux-android-ar rcSTPD drivers/fingerprint/built-in.a drivers/fingerprint/fingerprint_common.o drivers/fingerprint/fingerprint_common_lsi.o drivers/fingerprint/gw3x_common.o drivers/fingerprint/gw3x_spidev.o drivers/fingerprint/fingerprint_sysfs.o

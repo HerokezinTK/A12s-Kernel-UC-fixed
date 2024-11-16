@@ -1,0 +1,79 @@
+!<thin>
+//                                              604       `
+scsc_log_collector.o/
+scsc_log_collector_proc.o/
+scsc_log_collector_mmap.o/
+scsc_logring_main.o/
+scsc_logring_ring.o/
+scsc_logring_debugfs.o/
+platform_mif_module.o/
+platform_mif_3830.o/
+mxlog_transport.o/
+fw_panic_record.o/
+panicmon.o/
+suspendmon.o/
+mxlog.o/
+mxproc.o/
+scsc_service.o/
+scsc_mx_module.o/
+scsc_mx_impl.o/
+mxman.o/
+miframman.o/
+mifmboxman.o/
+mifproc.o/
+mifintrbit.o/
+fwhdr.o/
+fwimage.o/
+cpacket_buffer.o/
+mifstream.o/
+mxmgmt_transport.o/
+gdb_transport.o/
+scsc_lerna.o/
+mxsyserr.o/
+mxfwconfig.o/
+mx140_file.o/
+mxlogger.o/
+scsc_wlbtd.o/
+client_test.o/
+mx_mmap.o/
+mx250_fm.o/
+mx250_fm_test.o/
+
+/0              0           0     0     644     174496    `
+/22             0           0     0     644     105848    `
+/49             0           0     0     644     128312    `
+/76             0           0     0     644     200792    `
+/97             0           0     0     644     105040    `
+/118            0           0     0     644     203632    `
+/142            0           0     0     644     163816    `
+/165            0           0     0     644     310968    `
+/186            0           0     0     644     100960    `
+/205            0           0     0     644     25488     `
+/224            0           0     0     644     43464     `
+/236            0           0     0     644     44688     `
+/250            0           0     0     644     64816     `
+/259            0           0     0     644     239424    `
+/269            0           0     0     644     228992    `
+/285            0           0     0     644     204864    `
+/303            0           0     0     644     210648    `
+/319            0           0     0     644     405744    `
+/328            0           0     0     644     108968    `
+/341            0           0     0     644     44952     `
+/355            0           0     0     644     149648    `
+/366            0           0     0     644     56896     `
+/380            0           0     0     644     9200      `
+/389            0           0     0     644     10936     `
+/400            0           0     0     644     67808     `
+/418            0           0     0     644     23008     `
+/431            0           0     0     644     99672     `
+/451           /0           0     0     644     75440     `
+/468            0           0     0     644     143240    `
+/482            0           0     0     644     57016     `
+/494            0           0     0     644     56680     `
+/508            0           0     0     644     182080    `
+/522            0           0     0     644     169624    `
+/534            0           0     0     644     265768    `
+/548            0           0     0     644     166504    `
+/563            0           0     0     644     191904    `
+/574            0           0     0     644     48592     `
+/586           /0           0     0     644     125712    `

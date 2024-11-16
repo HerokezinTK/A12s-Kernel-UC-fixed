@@ -1,0 +1,1 @@
+cmd_drivers/mfd/sm/sm5714/built-in.a :=  rm -f drivers/mfd/sm/sm5714/built-in.a; ./aarch64-linux-android-4.9-llvm/bin/aarch64-linux-android-ar rcSTPD drivers/mfd/sm/sm5714/built-in.a drivers/mfd/sm/sm5714/sm5714_core.o drivers/mfd/sm/sm5714/sm5714-irq.o

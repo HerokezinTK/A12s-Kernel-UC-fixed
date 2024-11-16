@@ -1,0 +1,1 @@
+cmd_drivers/battery/fuelgauge/sm5714_fuelgauge/built-in.a :=  rm -f drivers/battery/fuelgauge/sm5714_fuelgauge/built-in.a; ./aarch64-linux-android-4.9-llvm/bin/aarch64-linux-android-ar rcSTPD drivers/battery/fuelgauge/sm5714_fuelgauge/built-in.a drivers/battery/fuelgauge/sm5714_fuelgauge/sm5714_fuelgauge.o
